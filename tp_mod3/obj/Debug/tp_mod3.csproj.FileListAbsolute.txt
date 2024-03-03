@@ -1,0 +1,10 @@
+D:\codingan\tp_mod3\tp_mod3\obj\Debug\tp_mod3.csproj.AssemblyReference.cache
+D:\codingan\tp_mod3\tp_mod3\obj\Debug\tp_mod3.Properties.Resources.resources
+D:\codingan\tp_mod3\tp_mod3\obj\Debug\tp_mod3.csproj.GenerateResource.cache
+D:\codingan\tp_mod3\tp_mod3\obj\Debug\tp_mod3.csproj.CoreCompileInputs.cache
+D:\codingan\tp_mod3\tp_mod3\bin\Debug\tp_mod3.exe.config
+D:\codingan\tp_mod3\tp_mod3\bin\Debug\tp_mod3.exe
+D:\codingan\tp_mod3\tp_mod3\bin\Debug\tp_mod3.pdb
+D:\codingan\tp_mod3\tp_mod3\obj\Debug\tp_mod3.Form1.resources
+D:\codingan\tp_mod3\tp_mod3\obj\Debug\tp_mod3.exe
+D:\codingan\tp_mod3\tp_mod3\obj\Debug\tp_mod3.pdb

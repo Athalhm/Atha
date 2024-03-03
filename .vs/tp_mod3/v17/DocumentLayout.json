@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\codingan\\tp_mod3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F225050F-B6B5-44D3-AB7C-DA1EC6726483}|tp_mod3\\tp_mod3.csproj|d:\\codingan\\tp_mod3\\tp_mod3\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F225050F-B6B5-44D3-AB7C-DA1EC6726483}|tp_mod3\\tp_mod3.csproj|solutionrelative:tp_mod3\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F225050F-B6B5-44D3-AB7C-DA1EC6726483}|tp_mod3\\tp_mod3.csproj|D:\\codingan\\tp_mod3\\tp_mod3\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F225050F-B6B5-44D3-AB7C-DA1EC6726483}|tp_mod3\\tp_mod3.csproj|solutionrelative:tp_mod3\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F225050F-B6B5-44D3-AB7C-DA1EC6726483}|tp_mod3\\tp_mod3.csproj|D:\\codingan\\tp_mod3\\tp_mod3\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F225050F-B6B5-44D3-AB7C-DA1EC6726483}|tp_mod3\\tp_mod3.csproj|solutionrelative:tp_mod3\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "D:\\codingan\\tp_mod3\\tp_mod3\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "tp_mod3\\Form1.Designer.cs",
+              "ToolTip": "D:\\codingan\\tp_mod3\\tp_mod3\\Form1.Designer.cs",
+              "RelativeToolTip": "tp_mod3\\Form1.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACYAAABIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-03T15:45:22.477Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\codingan\\tp_mod3\\tp_mod3\\Form1.cs",
+              "RelativeDocumentMoniker": "tp_mod3\\Form1.cs",
+              "ToolTip": "D:\\codingan\\tp_mod3\\tp_mod3\\Form1.cs",
+              "RelativeToolTip": "tp_mod3\\Form1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-03T15:45:16.048Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\codingan\\tp_mod3\\tp_mod3\\Form1.cs",
+              "RelativeDocumentMoniker": "tp_mod3\\Form1.cs",
+              "ToolTip": "D:\\codingan\\tp_mod3\\tp_mod3\\Form1.cs [Design]",
+              "RelativeToolTip": "tp_mod3\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-03T15:44:34.222Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
